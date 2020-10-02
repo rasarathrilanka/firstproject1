@@ -1,4 +1,3 @@
 # firstproject1
 Myfirstproject
-hi
-author by Asel
+author is rasara thrilanka
